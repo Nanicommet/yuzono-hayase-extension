@@ -1,0 +1,27 @@
+{
+  "repository": "yuzono/anime-extensions",
+  "purpose": "Reference metadata for torrent-capable Yuzono extension families.",
+  "sources": [
+    {
+      "id": "nyaatorrent",
+      "name": "Nyaa (Torrent)",
+      "requires_adapter": true
+    },
+    {
+      "id": "ptorrent",
+      "name": "PTorrent (Torrent)",
+      "requires_adapter": true
+    },
+    {
+      "id": "torrentio",
+      "name": "Torrentio (Torrent / Debrid)",
+      "requires_adapter": true
+    },
+    {
+      "id": "torrentioanime",
+      "name": "Torrentio Anime",
+      "requires_adapter": true
+    }
+  ],
+  "note": "The source implementations remain Android/Kotlin code and are not executed directly by Hayase."
+}

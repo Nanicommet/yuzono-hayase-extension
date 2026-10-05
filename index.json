@@ -1,0 +1,22 @@
+[
+  {
+    "manifestVersion": 2,
+    "name": "Yuzono Torrent Bridge",
+    "id": "yuzono-hayase.torrent-bridge",
+    "version": "0.2.0",
+    "type": "torrent",
+    "accuracy": "medium",
+    "updatePeers": false,
+    "ratio": 0,
+    "media": "both",
+    "languages": [
+      "ALL"
+    ],
+    "nsfw": false,
+    "url": "https://YOUR-AUTHORIZED-ENDPOINT.example",
+    "description": "Hayase bridge for an authorized torrent API compatible with Yuzono-style anime metadata.",
+    "icon": "https://raw.githubusercontent.com/yuzono/anime-extensions/master/.github/readme-icon.png",
+    "update": "https://Nanicommet.github.io/yuzono-hayase-extension/index.json",
+    "code": "https://Nanicommet.github.io/yuzono-hayase-extension/dist/yuzono-torrent-bridge.js"
+  }
+]
